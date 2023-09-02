@@ -10,3 +10,7 @@ This project uses Python, python-tkinter and MySQL to create an interactive soft
 ![1](https://github.com/Arushi-Kapkoti/Store_Billing_Software/assets/114429172/151a4e30-8955-4ed0-a67b-33af5112a047)
 
 <br> <br> <br> 
+
+![2](https://github.com/Arushi-Kapkoti/Store_Billing_Software/assets/114429172/a8c7ad6a-a14d-4962-8446-a10c4d841a34)
+
+<br> <br> <br> 
